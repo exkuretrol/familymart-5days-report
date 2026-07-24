@@ -1,0 +1,22 @@
+{
+  "title": "全家 5天5好康 Weekly Report",
+  "campaign": "【上全家練5功：5天5好康】",
+  "dateRange": "115/7/24–7/28",
+  "isoWeekStart": "2026-07-24",
+  "sourceName": "全家FamilyMart 官方 Facebook",
+  "sourceUrl": "https://www.facebook.com/FamilyMart/posts/1587870049662551",
+  "updatedAt": "2026-07-24T07:46:00+08:00",
+  "items": [
+    {"deal": "同品項買1送1", "products": ["義美紅豆粉粿牛奶冰棒", "福樂Ｑ果草莓芝芝優酪雪糕", "可口可樂 435ml", "暢快人生奇異果精華版"]},
+    {"deal": "任選買1送1", "products": ["貝納頌茶韻黑咖啡/茶韻拿鐵"]},
+    {"deal": "買2送2", "products": ["味丹竹炭水"]},
+    {"deal": "同品項加10元多1件", "products": ["萬歲牌椒鹽風味堅果", "酷椰嶼巧克力風味布朗尼脆片", "義美生機水果黑巧克力片", "bbq江南醬燒炒泡麵"]},
+    {"deal": "任選2杯85元", "products": ["Let’s Café 大杯特濃美式/拿鐵"]},
+    {"deal": "2杯75元", "products": ["Let’s Tea 特大杯甘蔗青茶"]},
+    {"deal": "2支55元", "products": ["Fami!ce 霜淇淋（不限口味）"]},
+    {"deal": "任選2杯75元", "products": ["65元系列酷繽沙"]},
+    {"deal": "3件135元", "products": ["一番搾零糖值啤酒 500ml"]},
+    {"deal": "任選3件155元", "products": ["—196無糖 雙重檸檬/沖繩檸檬"]}
+  ],
+  "notes": ["禁止酒駕，未滿18歲禁止飲酒", "圖片與活動內容以全家官方公告為準"]
+}

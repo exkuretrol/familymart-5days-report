@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "deploy": "bash scripts/deploy.sh"
+  },
+  "devDependencies": {
+    "wrangler": "^4.86.0"
+  }
+}

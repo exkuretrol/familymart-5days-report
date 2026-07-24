@@ -1,0 +1,3 @@
+# Cloudflare Pages direct upload project.
+name = "familymart-5days-report"
+pages_build_output_dir = "dist"
